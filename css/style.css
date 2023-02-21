@@ -1,3 +1,37 @@
 body {
-    background-color: #000;
+    background-color: #9fc0b9;
+    color: rgb(0, 0, 0);
+    font-size: 22px; 
 }
+
+p {
+    color:rgba(0, 0, 0, 0.761);
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 60px;
+    color: pink;
+}
+
+h2 {
+    font-size: 25px;
+    color: rgb(234, 0, 255);
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(255, 59, 92);
+}
+
+h4 {
+    font-size: 25px;
+    color: rgb(220, 117, 238);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
